@@ -1,7 +1,7 @@
 professor### Hi there 👋
 
 <!--
-**professorr/professor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**professorr/professor** is a ✨ _special_ ✨ repository because its `professorr` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
